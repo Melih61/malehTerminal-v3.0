@@ -16,6 +16,7 @@ Feel free to use, modify, and integrate the code into your own projects. It’s 
 
 ## Status
 🕒 Last updated in 2023
+When on startup a text with the message "A update is available" is shown just ignore that
 While relatively old, malehTerminal still functions reasonably well. However, some limitations and bugs may exist due to its age and experimental nature.
 
 ## Disclaimer
