@@ -23,7 +23,7 @@ Feel free to use, modify, and integrate the code into your own projects. It’s 
 This is a learning project created for educational purposes and experimentation. Use at your own risk.
 
 ## Commands
-```bash
+```
 help
 cmdlist
 rm
